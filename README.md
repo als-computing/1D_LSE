@@ -3,6 +3,13 @@ Dash Ploty prototype to visualize 1D spectral data sets and explore latent space
 
 ## Getting Started
 
+0. Change the path in utils/data_utils.py
+1. create a new environment
+2. use requirements.txt or pyproject.toml to install dependencies
+3. Run the app.py
+
+Below can be overlooked for now. 
+
 1. Install development dependencies:
 
 ```bash
